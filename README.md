@@ -1,6 +1,5 @@
 # Welcome to my Profile, I'm Emad!
 
-[![Linkedin: EmadMohamed](https://img.shields.io/badge/-Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyarajhans/)](https://www.linkedin.com/in/emadmoh178/)
 <!-- ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=omarashour02&color=brightgreen">  
  -->
