@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my Profile! I'm Emad! 👋
+
+- 🎓 I'm a Computer Science student at Suez Canal University, set to graduate in 2024.
+- 💻 Passionate about problem-solving, algorithms, and data structures.
+- 🏆 ACPC Finalist.
+- 💼 Currently focused on expanding my skills in back-end development, but always open to learning new things.
+- 🔍 To learn more about me, check out my [Resume](https://drive.google.com/file/d/1iu-R-Ic9HnD66-X9-v0_P1JhR_Sltf76/view?usp=sharing). 📄
 
 <!--
 **EmadMoh178/EmadMoh178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
