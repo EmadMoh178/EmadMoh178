@@ -1,12 +1,10 @@
-# Welcome to my Profile, I'm Emad!
+## 👨🏻‍💻 Welcome to my Profile, I'm Emad!
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=omarashour02&color=brightgreen">  
  -->
 <!-- ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
  -->
-
-## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand Wave.gif" align="right"/>
 
