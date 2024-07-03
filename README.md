@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Welcome to my Profile, I'm Emad!
+## 🙋‍♂️ Welcome to my Profile, I'm Emad!
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=omarashour02&color=brightgreen">  
