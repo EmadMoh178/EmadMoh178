@@ -11,7 +11,7 @@
 - 👨🏻‍💻 I'm a software engineer with a strong foundation in software development fundamentals.
 - 💻 Passionate about problem-solving, algorithms, and data structures.
 - 🏆 ACPC Finalist.
-- 💼 Currently focused on expanding my skills in back-end development, but always open to learning new things.
+- 💼 Currently focused on expanding my skills in back-end development.
 - 💡 Always eager to learn new technologies, and continuously seek opportunities to enhance my technical skills.
 - 📄 To learn more about me, check out my [Resume](https://drive.google.com/file/d/1iu-R-Ic9HnD66-X9-v0_P1JhR_Sltf76/view?usp=sharing). 
 
