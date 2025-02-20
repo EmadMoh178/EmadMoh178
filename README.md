@@ -8,7 +8,7 @@
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand Wave.gif" align="right"/>
 
-- 👨🏻‍💻 I'm a software engineer with a strong foundation in software development fundamentals.
+- 👨🏻‍💻 I'm a software engineer at OpenTier!
 - 💻 Passionate about problem-solving, algorithms, and data structures.
 - 🏆 ACPC Finalist.
 - 💼 Currently focused on expanding my skills in back-end development.
