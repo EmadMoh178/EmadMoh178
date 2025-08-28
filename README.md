@@ -1,31 +1,52 @@
-## 🙋‍♂️ Welcome to my Profile, I'm Emad!
+# Hi there, I'm Emad! 👋
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=omarashour02&color=brightgreen">  
- -->
-<!-- ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
- -->
+👨‍💻 **Software Engineer** — focused on backend development and building reliable services & APIs  
+🎓 **Computer Science Graduate** — Suez Canal University  
+🧠 **Problem-solver** at heart — passionate about algorithms, data structures, and clean code  
+🚀 **Continuous learner** — dedicated to expanding technical expertise and driving impactful results  
+📄 Learn more: [Resume](https://drive.google.com/file/d/1iu-R-Ic9HnD66-X9-v0_P1JhR_Sltf76/view?usp=sharing) | [LinkedIn](https://linkedin.com/in/emadmoh178/)
 
-<img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand Wave.gif" align="right"/>
 
-- 👨🏻‍💻 I'm a software engineer at OpenTier!
-- 💻 Passionate about problem-solving, algorithms, and data structures.
-- 🏆 ACPC Finalist.
-- 💼 Currently focused on expanding my skills in back-end development.
-- 💡 Always eager to learn new technologies, and continuously seek opportunities to enhance my technical skills.
-- 📄 To learn more about me, check out my [Resume](https://drive.google.com/file/d/1iu-R-Ic9HnD66-X9-v0_P1JhR_Sltf76/view?usp=sharing). 
+## 🛠️ Technical Skills
 
-<!--
-**EmadMoh178/EmadMoh178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+**Frameworks & Tools**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🏆 Achievements
+
+- 🥇 **ACPC Finalist** - Arab & African Collegiate Programming Contest
+- 📊 **Top 10%** on [Codeforces](https://codeforces.com/profile/EmadMoh178) among 140,000+ users
+- 💪 **2,000+** problems solved across various platforms
+
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmadMoh178&theme=vue-dark&hide_border=true&background=0d1117)
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+**💬 Open to collaboration on interesting projects and technical challenges!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emadmoh178/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emadmoh178@gmail.com)
+
+</div>
